@@ -1,30 +1,21 @@
-## BandMates
-
 ## Description
 A virtual social space for musicians to meet other musicians based on needs,prefernces and a love for music!
-
+A web application that allows a user to create an account, sign in and create post in a community of other musicians
 ## Github Link
 https://github.com/glenhood/BandMates
-
 ## Heroku Link
 https://band--mates.herokuapp.com
-
-## Screenshots
-
+## Screenshot/Video
+https://drive.google.com/file/d/18-YqY9gdvaO1Ox-b7KsRV3SO_1-JlaE9/view
 ## Wireframes
-
-
-## Usage
-
-A web application that allows a user to create an account, sign in and create post in a community of other musicians
-This project was created and deployed using JavaScript, node.js, HTML, CSS, React, MongoDB,and Heroku.
-
-
+https://drive.google.com/file/d/1_KQplIdNBkCIZHjF6YrYPKehludOIoET/view
+## Technologies/Resources used
+This project was created and deployed using JavaScript, node.js, HTML, CSS, React, MongoDB,and Heroku,Graphql,Semantic ui,react strap,bootstrap,apollo server,express.js,mongodb atlas,unsplash,balsamiq, color picker, and she codes.
 ## License
+
 #### [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributors
-
 <ul>
  <li>Celia Pennington</li>
  https://github.com/celiajpennington
@@ -38,11 +29,10 @@ This project was created and deployed using JavaScript, node.js, HTML, CSS, Reac
  https://github.com/Cuillerethedj
  <li>Glen Hood</li>
  https://github.com/glenhood
-</ul>  
+</ul>
 
 ## Questions
-Contact us via email 
-
+Contact us via email
 
  ## Email
   cuillerethedj@gmail.com <br>
@@ -50,7 +40,5 @@ Contact us via email
   glen.hood.dev@gmail.com <br>
   celiajpennington@gmail.com <br>
   zhansayasarmanova1993@gmail.com<br>
-
-
-
+  
 [Take me back to the top](##BandMates)
